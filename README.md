@@ -1,0 +1,2 @@
+# datatables
+Meteor Datatables Wrapper
